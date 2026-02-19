@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: pwxiao
+          user: sunshine-1dev
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
